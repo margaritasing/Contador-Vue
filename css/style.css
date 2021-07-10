@@ -1,0 +1,29 @@
+body {
+    background-color: #35495e;
+    color: #eee;
+}
+
+.app {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: block;
+    text-align: center;
+}
+
+.count {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+button {
+    background-color: #41b883;
+    border: none;
+    padding: 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+    margin: 0 .5rem;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #eee;
+}
